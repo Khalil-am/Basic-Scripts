@@ -7,7 +7,7 @@ Python Scripts for everyday use this includes.
 4- Automatic YouTube Video Downloader
 5- Automatic Text to Speech
 6- convert a single image to a PDF
-7- convert multiple images to PDF:
+7- convert multiple images to PDF
 8- Automatic Plagiarism Checker
 9- Make URLs Shorter
 10-Internet Speed Tester
