@@ -10,6 +10,5 @@ Python Scripts for everyday use this includes.
 8- Automatic Plagiarism Checker
 9- Make URLs Shorter
 10-Internet Speed Tester
-more scripts added soon
-
+more scripts added soon !
 
